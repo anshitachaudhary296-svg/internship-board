@@ -15,7 +15,7 @@ An elegant, high-performance, and fully responsive **Tech Internship Board** bui
 ## 🌐 Live Demo & Repository
 
 - **Live Demo:** [https://internpulse-board.netlify.app](https://internpulse-board.netlify.app) *(Replace with your Netlify URL after deployment)*
-- **GitHub Repository:** [https://github.com/your-username/internship-board](https://github.com/your-username/internship-board)
+- **GitHub Repository:** [https://github.com/anshitachaudhary296-svg/internship-board](https://github.com/anshitachaudhary296-svg/internship-board)
 
 ---
 
